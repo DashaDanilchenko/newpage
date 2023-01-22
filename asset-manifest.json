@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DashaDanilchenko/newpage/static/css/main.073c9b0a.css",
-    "main.js": "/DashaDanilchenko/newpage/static/js/main.be05ccb1.js",
-    "static/js/787.25e23cb4.chunk.js": "/DashaDanilchenko/newpage/static/js/787.25e23cb4.chunk.js",
-    "static/media/logo.svg": "/DashaDanilchenko/newpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DashaDanilchenko/newpage/index.html",
-    "main.073c9b0a.css.map": "/DashaDanilchenko/newpage/static/css/main.073c9b0a.css.map",
-    "main.be05ccb1.js.map": "/DashaDanilchenko/newpage/static/js/main.be05ccb1.js.map",
-    "787.25e23cb4.chunk.js.map": "/DashaDanilchenko/newpage/static/js/787.25e23cb4.chunk.js.map"
+    "main.css": "/newpage/static/css/main.073c9b0a.css",
+    "main.js": "/newpage/static/js/main.2e402976.js",
+    "static/js/787.25e23cb4.chunk.js": "/newpage/static/js/787.25e23cb4.chunk.js",
+    "static/media/logo.svg": "/newpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/newpage/index.html",
+    "main.073c9b0a.css.map": "/newpage/static/css/main.073c9b0a.css.map",
+    "main.2e402976.js.map": "/newpage/static/js/main.2e402976.js.map",
+    "787.25e23cb4.chunk.js.map": "/newpage/static/js/787.25e23cb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.be05ccb1.js"
+    "static/js/main.2e402976.js"
   ]
 }
