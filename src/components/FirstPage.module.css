@@ -1,0 +1,26 @@
+.background {
+    background: #cecfce;
+    border-bottom: 3px solid #ae7e5e;
+}
+
+.photo{
+    margin: 30px;
+    height: 300px;
+}
+
+.name {
+    border-bottom: 3px solid #ae7e5e;
+    padding: 10px ;
+    color: #6b4c3a;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.vacancy {
+    padding: 50px ;
+    margin-bottom: 50px;
+    color: #6b4c3a;
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 200;
+}
